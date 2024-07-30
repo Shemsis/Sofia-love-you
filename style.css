@@ -31,4 +31,5 @@ body {
 
 .right {
 	color: lime;
+	text-transform: uppercase;
 }
